@@ -1,4 +1,4 @@
 # RESUME-Projects
 
-Here are the projects mentioned in my project
-Internship Project cannot be shared publicly.
+1. Here are the projects mentioned in my project
+2. Internship Project cannot be shared publicly.
